@@ -1,0 +1,171 @@
+
+  
+  .header{
+    display: flex;
+    width:auto;
+    height:177px;
+    background-color:#000;
+    border: 15px solid #D9D5D2;
+  }
+  h1{
+  
+    height: auto;
+    font-family: 'Chlorinap', sans-serif;                                           
+    color: Red;
+    padding-left:300px;
+    font-size: 60px;
+    position:  absolute;
+  }
+  .mario{
+    height: auto;
+    font-family: 'Mario and Luigi', sans-serif;                                         
+    color: Red;
+    padding-left:300px;
+    font-size: 30px;
+    margin-top: 110px;
+    position:  absolute;
+   
+
+  }
+  
+  
+  .buttons-left::before {
+      color: black;
+      content: "+";
+      font-size: 180px;
+      text-shadow: -2px -2px 0  #d9d5d2, 2px -2px 0 #d9d5d2, -2px 2px 0  #d9d5d2, 2px 2px 0  #d9d5d2;
+  }
+  .buttons-left {
+    
+      margin-left: 30px;
+      margin-top: -25px;
+      position: absolute;
+  }
+  
+  .aCircle {
+      background-color: red;
+      height: 45px;
+      right: 300px;
+      margin-left: 453px;
+      margin-top: 90px;
+      position: absolute;
+      width: 45px;
+      border-radius: 50%;
+  }
+  .bCircle {
+    background-color: red;
+      height: 45px;
+      right: 200px;
+      margin-left: 383px;
+      margin-top: 90px;
+      position: absolute;
+      width: 45px;
+      border-radius: 50%;
+  }
+  
+  .b {
+      background-color: #d9d5d2;
+      height: 50px;
+      right: 195px;
+      margin-left: 450px;
+      margin-top: 5px;
+      position: absolute;
+      width: 17px;
+  }
+  .a {
+      background-color: #d9d5d2;
+      height: 50px;
+      right:295px ;
+      margin-left: 380px;
+      margin-top: 5px;
+      position: absolute;
+      width: 17px;
+  }
+  .a-Up {
+    background-color: red;
+    height: 45px;
+    right: 300px;
+    margin-left: 453px;
+    margin-top: 8px;
+    position: absolute;
+    width: 45px;
+    border-radius: 50%;
+}
+.b-Up {
+  background-color: red;
+    height: 45px;
+    right: 200px;
+    margin-left: 383px;
+    margin-top: 8px;
+    position: absolute;
+    width: 45px;
+    border-radius: 50%;
+}
+
+.b-Up2 {
+  background-color: #d9d5d2;
+  height: 50px;
+  right: 195px;
+  margin-left: 450px;
+  margin-top: 89px;
+  position: absolute;
+  width: 17px;
+}
+.a-Up2 {
+  background-color: #d9d5d2;
+  height: 50px;
+  right:295px ;
+  margin-left: 380px;
+  margin-top: 87px;
+  position: absolute;
+  width: 17px;
+}
+
+
+
+
+  
+  .aLet {
+      color: red;
+      font-size: 20px;
+      right: 300px;
+      height: 50px;
+      margin-left: 487px;
+      margin-top:140px;
+      position: absolute;
+      width: 50px;
+  }
+  .bLet {
+      color: red;
+      right: 210px;
+      font-size: 20px;
+      height: 50px;
+      margin-left: 417px;
+      margin-top: 140px;
+      position: absolute;
+      width: 50px;
+  }
+
+  .aUpLet {
+    color: red;
+    font-size: 20px;
+    right: 300px;
+    height: 50px;
+    margin-left: 487px;
+    margin-top:56px;
+    position: absolute;
+    width: 50px;
+}
+.bUpLet {
+    color: red;
+    right: 210px;
+    font-size: 20px;
+    height: 50px;
+    margin-left: 417px;
+    margin-top: 56px;
+    position: absolute;
+    width: 50px;
+}
+
+
+  
