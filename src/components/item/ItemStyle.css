@@ -1,0 +1,94 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgb(243, 249, 255);
+  padding: 1.3rem;
+  max-height: 700px;
+  max-width: 355px;
+  background-image: url(../public/img/pacman2.jpg);
+  color: rgba(232, 232, 12, 0.894);
+  font-size: 12px;
+  font-family: 'Nintendo U', sans-serif;
+
+}
+h3 {
+  font-size: 33px;
+  color: blue;
+}
+
+.card-im {
+border-radius: 2px 20px 2px 20px;
+  width: 360px;
+  height: 360px;
+  margin: 8px 0;
+}
+.card-title {
+  display: grid;
+  align-items: center;
+}
+  
+
+.card-2 {
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgb(243, 249, 255);
+  padding: 5px;
+  max-height: 1000px;
+  max-width: auto;
+  background-image: url(../public/img/mario-3.jpg) ;
+  color: black;
+  font-family: 'Nintendo U', sans-serif;
+}
+
+
+.card-3{
+  font-size: 2rem;
+  font-weight: 1500;
+}
+
+
+.card-im-2 {
+  width: 400px;
+  height: 400px;
+  margin: 15px 0;
+  border-radius: 20px 0 20px 0;
+}
+
+.card-s{
+  display: grid;
+  justify-content: center;
+  width: 350px;
+  background-color: rgb(10, 10, 10);
+  opacity: 90%;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  color: red;
+}
+
+.detalle{
+color: rgb(240, 247, 25);
+  font-size: 25px;
+}
+
+
+h4{
+  display: flex;
+  justify-content: center;
+  color: rgb(82, 243, 13);
+  font-size: 25px ;
+}
+
+
+.card2{
+  color: rgb(4, 4, 4);
+  font-size: 25px;
+  margin-top: 240px;
+  text-align: justify;
+}
